@@ -1,4 +1,4 @@
-# The-Cutomer-Service
+# The-Customer-Service
 
 Aim:
 
